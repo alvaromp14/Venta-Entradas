@@ -22,7 +22,7 @@ Esta aplicación permite crear, listar, buscar y comprar entradas para eventos. 
 ## 🛠️ Tecnologías
 
 - **Frontend**: HTML5, CSS3, PHP
-- **Backend**: phpMyAdmin
+- **Backend**: PHP
 - **Base de datos**: MySQL
 - **Librerías**: fpdf, phpqrcode, PHPMailer
 
